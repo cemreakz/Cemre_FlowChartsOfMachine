@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T12:17:28.439Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="13.8.2" etag="2A0bKXzsk3WSEIVIKRxs" type="github"><diagram id="8I0ZILU0IZCC_N8qX_k-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-26T12:37:41.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="_hJS0vWmUCoYWNUBcjEq" version="13.8.2" type="github">
+  <diagram id="8I0ZILU0IZCC_N8qX_k-" name="Page-1">
+    <mxGraphModel dx="1221" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="A2uMPvVaSxJjAJt0p_s2-1" value="SERVO Makina Hazırlandı(I501.1)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry y="40" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A2uMPvVaSxJjAJt0p_s2-2" value="P1 &lt;br&gt;Yukarıda (I1.2)&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="80" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="A2uMPvVaSxJjAJt0p_s2-3" value="P1 &lt;br&gt;Aşağıda &lt;br&gt;(I1.1)&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="190" y="40" width="70" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="A2uMPvVaSxJjAJt0p_s2-4" value="P2 &lt;br&gt;Yukarda&lt;br&gt;(I1.4)&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="250" y="40" width="80" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="A2uMPvVaSxJjAJt0p_s2-5" value="P2 &lt;br&gt;Aşağıda&lt;br&gt;&amp;nbsp;(I1.3)&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="38.13" width="70" height="43.75" as="geometry" />
+        </mxCell>
+        <mxCell id="A2uMPvVaSxJjAJt0p_s2-6" value="P3 Baskı&lt;br&gt;Yukarda &lt;br&gt;(I1.5)&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="380" y="38.13" width="80" height="43.75" as="geometry" />
+        </mxCell>
+        <mxCell id="A2uMPvVaSxJjAJt0p_s2-7" value="P4 Dönme&lt;br&gt;Yukarda &lt;br&gt;(I1.7)&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="450" y="38.13" width="90" height="43.75" as="geometry" />
+        </mxCell>
+        <mxCell id="A2uMPvVaSxJjAJt0p_s2-9" value="P4 Dönme&lt;br&gt;Aşağıda&lt;br&gt;(I2.0)&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="530" y="38.75" width="90" height="43.75" as="geometry" />
+        </mxCell>
+        <mxCell id="A2uMPvVaSxJjAJt0p_s2-10" value="Çene Açık&lt;br&gt;Q0.5" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="610" y="40" width="80" height="43.13" as="geometry" />
+        </mxCell>
+        <mxCell id="A2uMPvVaSxJjAJt0p_s2-11" value="Çene Açık&lt;br&gt;Q0.6" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="680" y="39.370000000000005" width="70" height="43.75" as="geometry" />
+        </mxCell>
+        <mxCell id="A2uMPvVaSxJjAJt0p_s2-12" value="P6 kızak&lt;br&gt;I2.3" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="750" y="40" width="80" height="43.13" as="geometry" />
+        </mxCell>
+        <mxCell id="A2uMPvVaSxJjAJt0p_s2-13" value="HOME POZİSYONU" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="38.13" width="160" height="41.87" as="geometry" />
+        </mxCell>
+        <mxCell id="A2uMPvVaSxJjAJt0p_s2-15" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="70" as="sourcePoint" />
+            <mxPoint x="900" y="70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="890" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
