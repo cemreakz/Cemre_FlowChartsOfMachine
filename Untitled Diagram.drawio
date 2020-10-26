@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T14:22:49.363Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="d_d21i7j5uPa2ozHsktW" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-26T14:30:56.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="bF5PrDfoSQNeIG0NUKJA" version="13.8.2" type="github">
   <diagram id="8I0ZILU0IZCC_N8qX_k-" name="Page-1">
-    <mxGraphModel dx="1483" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -162,7 +162,7 @@
           <mxGeometry x="1147.5" y="1030" width="145" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A2uMPvVaSxJjAJt0p_s2-104" value="P6 Kızak Pistonu&lt;br&gt;Geri Çekme(Q1.0)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1085" y="1310" width="120" height="60" as="geometry" />
+          <mxGeometry x="1085" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A2uMPvVaSxJjAJt0p_s2-106" value="T=Reçeten girilen P6 Çekme süresi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1147.5" y="1270" width="202.5" height="20" as="geometry" />
