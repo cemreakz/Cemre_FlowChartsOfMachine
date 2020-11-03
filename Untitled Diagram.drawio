@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-03T06:50:28.403Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="FirNvJGXeB3bhd1msfkg" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-03T06:52:07.985Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="ImrN6iqYcYWh-8kURVCO" version="13.8.8" type="github">
   <diagram id="8I0ZILU0IZCC_N8qX_k-" name="Page-1">
     <mxGraphModel dx="1483" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -147,7 +147,7 @@
             <mxPoint x="605" y="1520.62" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AO6P_Psntt2UskHuxxLQ-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="AO6P_Psntt2UskHuxxLQ-173" parent="1">
+        <mxCell id="AO6P_Psntt2UskHuxxLQ-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="AO6P_Psntt2UskHuxxLQ-173" target="AO6P_Psntt2UskHuxxLQ-237" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="1640.62" as="targetPoint" />
           </mxGeometry>
@@ -178,7 +178,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AO6P_Psntt2UskHuxxLQ-180" value="P5 Çene Açma (Q0.6)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1680" width="220" height="70" as="geometry" />
+          <mxGeometry x="562.5" y="1690" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AO6P_Psntt2UskHuxxLQ-181" value="T=100ms" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="655" y="1660" width="202.5" height="20" as="geometry" />
@@ -347,7 +347,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AO6P_Psntt2UskHuxxLQ-225" value="P8 Ürün Tutma Kapama(Q3.1)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="245" y="1790" width="120" height="60" as="geometry" />
+          <mxGeometry x="244.5" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AO6P_Psntt2UskHuxxLQ-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="AO6P_Psntt2UskHuxxLQ-227" target="AO6P_Psntt2UskHuxxLQ-229" parent="1">
           <mxGeometry relative="1" as="geometry" />
@@ -398,16 +398,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AO6P_Psntt2UskHuxxLQ-237" value="Ayarlar Sayfasında &lt;br&gt;Bulunan Gripper devrede &lt;br&gt;tuşu yeşil mi?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="225" y="1640" width="190" height="100" as="geometry" />
+          <mxGeometry x="225" y="1670" width="190" height="100" as="geometry" />
         </mxCell>
         <mxCell id="AO6P_Psntt2UskHuxxLQ-238" value="Evet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1750" width="40" height="20" as="geometry" />
+          <mxGeometry x="325" y="1770" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AO6P_Psntt2UskHuxxLQ-239" value="Hayır" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="172.5" y="1670" width="40" height="20" as="geometry" />
+          <mxGeometry x="172.5" y="1690" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AO6P_Psntt2UskHuxxLQ-241" value="Taşıma ünitesinde Hareket yoktur!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="37.5" y="1660" width="120" height="60" as="geometry" />
+          <mxGeometry x="33" y="1690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AO6P_Psntt2UskHuxxLQ-245" value="P8 Ürün Tutma Kapanmadı!&lt;br&gt;Alarmı Ver!" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="47.5" y="1880" width="80" height="80" as="geometry" />
