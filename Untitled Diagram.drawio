@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-07T15:17:24.226Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="pq7SYQBfPhrDfuA_Ext8" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-08T14:54:35.692Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="wGL96C2ITwcMsGueIEEu" version="13.9.2" type="github">
   <diagram id="8I0ZILU0IZCC_N8qX_k-" name="Page-1">
-    <mxGraphModel dx="1108" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1570" dy="1023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <object label="" id="0">
           <mxCell />
@@ -154,7 +154,7 @@
             <mxPoint x="320" y="1640.62" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AO6P_Psntt2UskHuxxLQ-173" value="P6 Kızak Pistonu &lt;br&gt;&lt;span style=&quot;background-color: rgb(255 , 51 , 51)&quot;&gt;İleride&amp;nbsp; &lt;/span&gt;Sensörü &lt;br&gt;Görüyor mu? (I2.3)" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="AO6P_Psntt2UskHuxxLQ-173" value="P6 Kızak Pistonu &lt;br&gt;&lt;span style=&quot;background-color: rgb(255 , 51 , 51)&quot;&gt;İleride&amp;nbsp; &lt;/span&gt;Sensörü &lt;br&gt;Görüyor mu? (I2.3)" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="247.5" y="1470.62" width="145" height="99.38" as="geometry" />
         </mxCell>
         <mxCell id="AO6P_Psntt2UskHuxxLQ-174" value="T=100ms" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
